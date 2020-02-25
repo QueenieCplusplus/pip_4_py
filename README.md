@@ -1,10 +1,5 @@
 # pip_4_py
-PIP
-
-
-<h1> Queen PiP
-
-pip is a useful package manager for Python.
+PIP is a useful package manager for Python.
 
 # Installation of PiP
 
